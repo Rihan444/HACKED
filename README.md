@@ -25,7 +25,7 @@ cd HACKED
 
 chmod +x *
 
-python 
+python hacked.py
 
 Done ✅😃 Thank you 💓
 
