@@ -18,9 +18,9 @@ pkg install python
 
 pkg install git
 
-git clone 
+git clone https://github.com/Rihan444/HACKED
 
-cd 
+cd HACKED
 
 chmod +x *
 
